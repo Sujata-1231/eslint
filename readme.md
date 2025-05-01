@@ -22,3 +22,7 @@
 
 1. ./node_modules/.bin/eslint --init
 2. You can also run this command directly using 'npm init @eslint/config@latest'
+
+- npm install eslint --save-dev
+- npx eslint --init
+- npx eslint yourfile.js
